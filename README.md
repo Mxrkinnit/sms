@@ -8,3 +8,4 @@ This is a School Management System software developed by Django and sqlite3. In 
 ### 2. Added Students Attendance Count System
 
 ### 3. Will add complete Employee Management System for Teachers and others Stuff
+# sms
